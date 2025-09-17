@@ -1,0 +1,13 @@
+Project Kickoff Meeting - January 15
+
+Attendees: Sarah (PM), Mike (Dev), Lisa (Design), Tom (QA)
+
+Key Points:
+- Project deadline set for March 31st
+- Sarah will create project timeline by January 20th
+- Mike to set up development environment by January 18th
+- Lisa needs design mockups ready by February 1st
+- Tom will prepare testing strategy document
+- Decision: Use React for frontend framework
+- Decision: Weekly standups every Tuesday at 10 AM
+- Budget approved: $50,000
