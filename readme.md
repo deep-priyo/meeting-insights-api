@@ -372,4 +372,4 @@ npm test       # Run tests (when implemented)
 
 ---
 
-**Built by Priyadeep with ❤️ for efficient meeting management**
+**Built with ❤️ by Priyadeep — making meetings productive again!**
