@@ -52,8 +52,8 @@ This service accepts meeting notes (via file upload or raw text) and uses Google
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd ai-meeting-extractor
+git clone https://github.com/deep-priyo/meeting-insights-api
+cd meeting-insights-api
 ```
 
 2. **Install dependencies**
