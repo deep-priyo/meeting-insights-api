@@ -340,16 +340,13 @@ The API provides comprehensive error handling with appropriate HTTP status codes
 ##  Dependencies
 
 ### Core Dependencies
-```json
-{
-  "express": "^4.18.2",
-  "multer": "^1.4.5-lts.1",
-  "cors": "^2.8.5",
-  "helmet": "^7.1.0",
-  "dotenv": "^16.3.1",
-  "@google/generative-ai": "^0.1.3"
-}
-```
+- express
+- multer
+- cors
+- helmet
+- dotenv
+- @google/generative-ai
+
 
 ### Dev Dependencies
 ```json
